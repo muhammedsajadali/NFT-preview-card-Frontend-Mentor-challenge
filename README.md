@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[Live](paste the live link of the solution)
+[Live](https://muhammedsajadali.github.io/NFT-preview-card-Frontend-Mentor-challenge/)
 | [Solution](https://github.com/muhammedsajadali/NFT-preview-card-Frontend-Mentor-challenge)
 | [Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
 
