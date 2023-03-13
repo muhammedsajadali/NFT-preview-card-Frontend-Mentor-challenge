@@ -1,5 +1,5 @@
 
-![NFT Preview Card Component](content://com.android.chrome.FileProvider/images/screenshot/16786404604723364716798022418223.jpg)
+![NFT Preview Card Component](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hxx2bhmtmeelt0a98zos.jpg)
 
 
 
@@ -9,9 +9,9 @@
 
 [Live](https://muhammedsajadali.github.io/NFT-preview-card-Frontend-Mentor-challenge/)
 | [Solution](https://github.com/muhammedsajadali/NFT-preview-card-Frontend-Mentor-challenge)
-| [Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
+| [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
-This is a solution to the [NFT Preview Card Component challenge on Frontend Mentor](the link of challenge)
+This is a solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 </div>
 
