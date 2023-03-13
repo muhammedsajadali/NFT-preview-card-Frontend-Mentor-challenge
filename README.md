@@ -11,7 +11,7 @@
 | [Solution](https://github.com/muhammedsajadali/NFT-preview-card-Frontend-Mentor-challenge)
 | [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
-This is a solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+Solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 </div>
 
