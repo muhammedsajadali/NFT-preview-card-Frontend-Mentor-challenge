@@ -1,5 +1,5 @@
 
-![NFT Preview Card Component](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hxx2bhmtmeelt0a98zos.jpg)
+![NFT Preview Card Component](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sr9i7z9p1tfb2m40pigu.jpg)
 
 
 
@@ -8,8 +8,8 @@
 <div align="center">
 
 [Live](https://muhammedsajadali.github.io/NFT-preview-card-Frontend-Mentor-challenge/)
-| [Solution](https://github.com/muhammedsajadali/NFT-preview-card-Frontend-Mentor-challenge)
-| [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+| [Solution]()
+| [Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 Solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
@@ -38,7 +38,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile/Desktop-first workflow
-- Vanilla JavaScript
+
 
 ## What I learned 
 
