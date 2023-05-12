@@ -8,7 +8,7 @@
 <div align="center">
 
 [Live](https://muhammedsajadali.github.io/NFT-preview-card-Frontend-Mentor-challenge/)
-| [Solution]()
+| [Solution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
 | [Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 Solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
